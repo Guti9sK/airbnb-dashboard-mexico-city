@@ -1,6 +1,6 @@
 # 🏙️ Dashboard - Análisis y Precios de Airbnb en Ciudad de México
 
-> ⚠️ **Aviso sobre los datos**: Los datos utilizados en este proyecto provienen de un curso de formación y están protegidos por derechos de autor. Por esa razón, no se incluyen en este repositorio. El análisis y la visualización se muestran únicamente con fines demostrativos.
+> ⚠️ **Aviso sobre los datos**: Los datos utilizados en este proyecto provienen de un curso de formación y están protegidos por derechos de autor. Por esta razón, los datos no se incluyen en este repositorio. El análisis y la visualización se muestran únicamente con fines demostrativos.
 
 ## 🎯 Desafío
 
