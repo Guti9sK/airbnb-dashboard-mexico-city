@@ -44,7 +44,7 @@ Este proyecto presenta un análisis visual de la presencia de alojamientos de Ai
 
 # 🏙️ Dashboard - Airbnb Price Analysis in Mexico City
 
->⚠️ **Notice about the data**: The data used in this project comes from a training course and is protected by copyright. Therefore, it is not included in this repository. The analysis and visualizations are shared for demonstration purposes only.
+>⚠️ **Notice about the data**: The data used in this project comes from a training course and is protected by copyright. For this reason, the data is not included in this repository. The analysis and visualizations are shared for demonstration purposes only.
 
 ## 🎯 Challenge
 
