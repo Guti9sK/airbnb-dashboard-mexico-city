@@ -22,7 +22,8 @@ Este proyecto presenta un análisis visual de la presencia de alojamientos de Ai
 - **Distribución geográfica**: Mapa de calor por alcaldía basado en el promedio de precio por noche.  
 - **Evolución del precio en el tiempo**: Línea de tendencia con variación del precio promedio por noche, con una previsión a futuro.  
 - **Calificación promedio por alcaldía**: Ranking de alcaldías según la puntuación promedio de sus alojamientos.  
-- **Listado de propiedades**: Tabla con precios, nombres y alcaldías de las propiedades destacadas.  
+- **Listado de propiedades**: Tabla con precios, nombres y alcaldías de las propiedades destacadas.
+- **Filtro dinámico por alcaldía**
 
 ## ⚙️ Tecnologías utilizadas
 
@@ -67,6 +68,7 @@ This project presents a visual analysis of Airbnb listings in Mexico City, based
 - **Price trend over time**: Trend line showing variation of average nightly price, with a future forecast.  
 - **Average rating by borough**: Ranking of boroughs according to the average rating of their listings.  
 - **Property listings**: Table with prices, names and boroughs of featured properties.
+- **Dynamic borough filter**
 
 ## ⚙️ Technologies used
 
